@@ -30,5 +30,6 @@
   ],
   "files.associations": {
     "VS.C": "cpp"
-  }
+  },
+  "C_Cpp_Runner.useAddressSanitizer": false
 }
